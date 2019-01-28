@@ -6,7 +6,6 @@ select * from albums where artist = 'pink floyd';
 Select 'The year Sgt. Pepper''s Lonely Hearts Club' AS 'Info';
 select release_date from albums where name like '%sgt. pepper%';
 
-
 Select 'The genre of Nevermind:' AS 'Info';
 select genre from albums where name = 'nevermind';
 
