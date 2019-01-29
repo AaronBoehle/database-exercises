@@ -5,6 +5,7 @@ insert into albums (artist, name, release_date, sales, genre)
 values
 ('Michael Jackson', 'Thriller', 1982, 47.3, 'Pop/Rock/R&B'),
 ('Eagles', 'Their Greatest Hits (1971-1975)', 1976, 41.2, 'Country Rock/Soft Rock/Folk Rock'),
+-- ('Eagles', 'Their Greatest Hits (1971-1975)', 1976, 41.2, 'Country Rock/Soft Rock/Folk Rock'),
 ('AC/DC', 'Back in Black', 1980, 26.1, 'Hard Rock'),
 ('Pink Floyd', 'The Dark Side of the Moon', 1973, 24.2, 'Progressive Rock'),
 ('Whitney Houston', 'The Bodyguard', 1992, 28.4, 'R&B/Soul/Pop'),
@@ -34,4 +35,5 @@ values
 ('Nirvana', 'Nevermind', 1991, 16.7, 'Grunge/Alternative Rock'),
 ('Pink Floyd', 'The Wall', 1979, 18.6, 'Progressive Rock'),
 ('Santana', 'Supernatural', 1999, 20.5, 'Latin Rock'),
+-- ('Guns N'' Roses', 'Appetite for Destruction', 1987, 21.6, 'Hard Rock'),
 ('Guns N'' Roses', 'Appetite for Destruction', 1987, 21.6, 'Hard Rock');
