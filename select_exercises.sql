@@ -13,7 +13,7 @@ select 'Albums released in the 90''s' as 'Info';
 select * from albums where release_date between 1990 and 1999;
 
 select 'Albums with less than 20 million certified sales' as 'Info';
-select * from albums where sales <20 \G
+select * from albums where sales <20;
 
 select 'Anything rock!' as 'Info';
-select * from albums where genre like '%rock%' \G
+select * from albums where genre like '%rock%';

@@ -10,7 +10,7 @@ GRANT ALL ON .*.
 
 *** DATABASES ***
 
-SHOW data_base_name_goes_here;
+SHOW databases;
     -- Lists ALL databases available to user
 
 USE data_base_name_goes_here;
@@ -36,9 +36,3 @@ SELECT * FROM table_name_goes_here WHERE column_name_goes_here = 'value_goes_her
 
 !!! SELECT....then.....DELETE (DON'T JUST DELETE) !!!
 
-
-
-
-*** ALTER / MODIFY ***
-
-ALTER
