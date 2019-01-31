@@ -26,4 +26,3 @@ where last_name like '%q%'
   and last_name not like '%qu%';
 
 select concat(current_date );
-

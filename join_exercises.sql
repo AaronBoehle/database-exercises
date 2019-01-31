@@ -57,7 +57,6 @@ where salaries.to_date='9999-01-01'
   and dept_manager.to_date='9999-01-01'
 order by departments.dept_name asc;
 
-
 select  concat(e.first_name,' ',e.last_name) as 'Employee Name',
         departments.dept_name as 'Department Name',
         concat(manager.first_name,' ',manager.last_name) as 'Manager Name'
